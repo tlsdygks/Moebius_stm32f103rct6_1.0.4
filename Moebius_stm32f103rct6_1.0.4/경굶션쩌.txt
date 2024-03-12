@@ -1,0 +1,43 @@
+==========================================
+2020-9-23 20:20:38
+ 1. Added delayed reading of PS2 to prevent data anomalies caused by updating PS2 in an interrupt.
+ 2. Removed the Bluetooth PS2 interlock mechanism.
+==========================================
+2020-9-15 11:19:19
+	New version black driver board:
+		Bluetooth serial port 2 changed to serial port 3.
+
+==========================================
+2020-4-26 21:30:48
+	Added configuration file:
+	Compile options to enable encoder direction, encoder enable, and Z-axis spin function.
+Open config.h under the user file, configure, and compile to burn.
+==========================================
+2020-3-22 14:26:29
+	Swapped AB phase to adapt to the new version of the encoder.
+
+==========================================
+2019-10-5 18:26:59
+	1.Z-axis gyroscope direction calibration.
+
+==========================================
+2019-9-22 19:45:35
+	1.Optimized Z-axis spin.
+	2.Adjusted PS2 control speed.
+
+==========================================
+2019.8.24
+	1.Fixed the issue where the motor could not be controlled in PS2 green light mode, adjusted the corresponding motor port.
+==========================================
+2019.8.19
+	1.Added PS2 control.
+
+==========================================
+2019/8
+	1.Software completed basic functions, Bluetooth control.
+
+
+
+
+
+

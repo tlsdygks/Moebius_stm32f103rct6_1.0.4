@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "LED.C": "cpp",
+        "sys.h": "c",
+        "oled.h": "c",
+        "key.h": "c",
+        "motor.h": "c",
+        "control.h": "c",
+        "led.h": "c",
+        "LED.H": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "c:\\Users\\ssubf\\Downloads\\Moebius_stm32f103rct6_1.0.4\\Moebius_stm32f103rct6_1.0.4\\HardWare\\BALANCE\\CONTROL\\control.c"
+}
